@@ -1,7 +1,7 @@
 # Zeyad Zohny
 Just a software engineer specialized in backend development and big data. <br>
 Love building performant software and spend a good portion of my sanity on building and optimizing my developer workflow. <br><br>
-Oh, and I use Neovim btw. <br>
+Oh, and I use [![Neovim](https://img.shields.io/badge/Neovim-green.svg?style=flat-square&logo=neovim)](https://neovim.io) btw. <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyadzohny)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zeyad_alaaeldiin)
