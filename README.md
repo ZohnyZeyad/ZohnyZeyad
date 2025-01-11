@@ -32,5 +32,4 @@ Oh, and I use Neovim btw. <br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZohnyZeyad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZohnyZeyad&theme=tokyonight&hide_border=false)
